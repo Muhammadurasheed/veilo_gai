@@ -1,0 +1,5 @@
+{
+  "name": "Hedera Hackathon Assistant",
+  "description": "An application to help aspiring Hedera hackathon participants generate innovative project ideas and catchy team names using the power of AI.",
+  "requestFramePermissions": []
+}
